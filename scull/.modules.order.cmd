@@ -1,0 +1,1 @@
+savedcmd_/home/patrice/assignment-7-patricereneeemery/scull/modules.order := {   echo /home/patrice/assignment-7-patricereneeemery/scull/scull.o;   echo /home/patrice/assignment-7-patricereneeemery/scull/scullpipe.o; :; } > /home/patrice/assignment-7-patricereneeemery/scull/modules.order

@@ -1,20 +1,3 @@
-Assignment 7 - Kernel Modules
-
-This repository contains the modules required for Assignment 7:
-- hello
-- faulty
-- misc-modules
-- scull
-
-Run ./full-test.sh to build and test all modules.
-
-
-See additional notes below.
-
-
-
-
-
 ldd3: Linux Device Drivers 3 examples updated to work with recent kernels
 
 # About

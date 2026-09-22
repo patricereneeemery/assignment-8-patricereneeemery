@@ -1,0 +1,1 @@
+savedcmd_/home/patrice/assignment-7-patricereneeemery/misc-modules/jiq.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/patrice/assignment-7-patricereneeemery/misc-modules/jiq.ko /home/patrice/assignment-7-patricereneeemery/misc-modules/jiq.o /home/patrice/assignment-7-patricereneeemery/misc-modules/jiq.mod.o

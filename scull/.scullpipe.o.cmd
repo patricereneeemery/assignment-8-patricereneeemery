@@ -1,0 +1,1 @@
+savedcmd_/home/patrice/assignment-7-patricereneeemery/scull/scullpipe.o := ld -m elf_x86_64 -z noexecstack   -r -o /home/patrice/assignment-7-patricereneeemery/scull/scullpipe.o @/home/patrice/assignment-7-patricereneeemery/scull/scullpipe.mod 

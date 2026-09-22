@@ -1,0 +1,43 @@
+Sep 02 20:49:51 Ubuntu kernel: [0;38;5;245m[0;1;31m[0;38;5;245mvboxguest: Successfully loaded version 7.2.8 r173730 (interface 0x00010004)[0m
+Sep 02 20:49:51 Ubuntu kernel: input: VirtualBox USB Multi-Touch as /devices/pci0000:00/0000:00:06.0/usb1/1-2/1-2:1.0/0003:80EE:0022.0002/input/input12
+Sep 02 20:49:51 Ubuntu kernel: input: VirtualBox USB Multi-Touch UNKNOWN as /devices/pci0000:00/0000:00:06.0/usb1/1-2/1-2:1.0/0003:80EE:0022.0002/input/input13
+Sep 02 20:49:52 Ubuntu kernel: hid-multitouch 0003:80EE:0022.0002: input,hiddev0,hidraw1: USB HID v2.10 Pointer [VirtualBox USB Multi-Touch] on usb-0000:00:06.0-2/input0
+Sep 02 20:49:52 Ubuntu kernel: SSE version of gcm_enc/dec engaged.
+Sep 02 20:49:52 Ubuntu kernel: input: VirtualBox USB Touchpad as /devices/pci0000:00/0000:00:06.0/usb1/1-3/1-3:1.0/0003:80EE:0023.0003/input/input14
+Sep 02 20:49:52 Ubuntu kernel: input: VirtualBox USB Touchpad UNKNOWN as /devices/pci0000:00/0000:00:06.0/usb1/1-3/1-3:1.0/0003:80EE:0023.0003/input/input15
+Sep 02 20:49:52 Ubuntu kernel: hid-multitouch 0003:80EE:0023.0003: input,hiddev1,hidraw2: USB HID v2.10 Pointer [VirtualBox USB Touchpad] on usb-0000:00:06.0-3/input0
+Sep 02 20:49:52 Ubuntu kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1788407392.750:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe" pid=433 comm="apparmor_parser"[0m
+Sep 02 20:49:52 Ubuntu kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1788407392.750:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="nvidia_modprobe//kmod" pid=433 comm="apparmor_parser"[0m
+Sep 02 20:49:52 Ubuntu kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1788407392.770:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="ubuntu_pro_apt_news" pid=440 comm="apparmor_parser"[0m
+Sep 02 20:49:52 Ubuntu kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1788407392.867:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lsb_release" pid=432 comm="apparmor_parser"[0m
+Sep 02 20:49:52 Ubuntu kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1788407392.899:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=434 comm="apparmor_parser"[0m
+Sep 02 20:49:52 Ubuntu kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1788407392.899:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=434 comm="apparmor_parser"[0m
+Sep 02 20:49:52 Ubuntu kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1788407392.899:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=434 comm="apparmor_parser"[0m
+Sep 02 20:49:52 Ubuntu kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1788407392.899:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=434 comm="apparmor_parser"[0m
+Sep 02 20:49:52 Ubuntu kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1788407392.924:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/man" pid=447 comm="apparmor_parser"[0m
+Sep 02 20:49:52 Ubuntu kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1788407392.924:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="man_filter" pid=447 comm="apparmor_parser"[0m
+Sep 02 20:49:53 Ubuntu kernel: snd_intel8x0 0000:00:05.0: allow list rate for 1028:0177 is 48000
+Sep 02 20:49:56 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mworkqueue: blk_mq_run_work_fn hogged CPU for >10000us 8 times, consider switching to WQ_UNBOUND[0m
+Sep 02 20:49:57 Ubuntu kernel: e1000: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+Sep 02 20:50:02 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m03:50:02.007373 main     VBoxService 7.2.8 r173730 (verbosity: 0) linux.amd64 (Apr 18 2026 12:05:18) release log[0m
+                               [0;1;38;5;185m03:50:02.007376 main     Log opened 2026-09-03T03:50:02.007363000Z[0m
+Sep 02 20:50:02 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m03:50:02.007512 main     OS Product: Linux[0m
+Sep 02 20:50:02 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m03:50:02.007602 main     OS Release: 6.8.0-138-generic[0m
+Sep 02 20:50:02 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m03:50:02.007680 main     OS Version: #138~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  7 13:43:15 UTC [0m
+Sep 02 20:50:02 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m03:50:02.007759 main     Executable: /opt/VBoxGuestAdditions-7.2.8/sbin/VBoxService[0m
+                               [0;1;38;5;185m03:50:02.007760 main     Process ID: 1223[0m
+                               [0;1;38;5;185m03:50:02.007760 main     Package type: LINUX_64BITS_GENERIC[0m
+Sep 02 20:50:02 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m03:50:02.010594 main     7.2.8 r173730 started. Verbose level = 0[0m
+Sep 02 20:50:02 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m03:50:02.019954 main     vbglR3GuestCtrlDetectPeekGetCancelSupport: Supported (#1)[0m
+Sep 02 20:50:02 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mkauditd_printk_skb: 51 callbacks suppressed[0m
+Sep 02 20:50:02 Ubuntu kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1788407402.045:63): apparmor="STATUS" operation="profile_load" profile="unconfined" name="docker-default" pid=1193 comm="apparmor_parser"[0m
+Sep 02 20:50:02 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mset_capacity_and_notify: 9 callbacks suppressed[0m
+Sep 02 20:50:02 Ubuntu kernel: loop19: detected capacity change from 0 to 8
+Sep 02 20:50:03 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mworkqueue: blk_mq_run_work_fn hogged CPU for >10000us 16 times, consider switching to WQ_UNBOUND[0m
+Sep 02 20:50:04 Ubuntu kernel: Initializing XFRM netlink socket
+Sep 02 20:50:04 Ubuntu kernel: bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+Sep 02 20:50:09 Ubuntu kernel: [0;38;5;245m[0;1;31m[0;38;5;245mrfkill: input handler disabled[0m
+Sep 02 20:50:21 Ubuntu kernel: [0;38;5;245m[0;1;31m[0;38;5;245mrfkill: input handler enabled[0m
+Sep 02 20:50:28 Ubuntu kernel: [0;38;5;245m[0;1;31m[0;38;5;245mrfkill: input handler disabled[0m
+Sep 02 20:51:30 Ubuntu kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mclocksource: Long readout interval, skipping watchdog check: cs_nsec: 1028801012 wd_nsec: 1028800346[0m
+Sep 02 20:53:47 Ubuntu kernel: scull: registered with major 240 minor 0

@@ -1,0 +1,1 @@
+savedcmd_/home/patrice/assignment-7-patricereneeemery/scull/scull.mod := printf '%s\n'   scull.o | awk '!x[$$0]++ { print("/home/patrice/assignment-7-patricereneeemery/scull/"$$0) }' > /home/patrice/assignment-7-patricereneeemery/scull/scull.mod

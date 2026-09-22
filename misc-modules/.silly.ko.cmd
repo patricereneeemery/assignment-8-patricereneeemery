@@ -1,0 +1,1 @@
+savedcmd_/home/patrice/assignment-7-patricereneeemery/misc-modules/silly.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/patrice/assignment-7-patricereneeemery/misc-modules/silly.ko /home/patrice/assignment-7-patricereneeemery/misc-modules/silly.o /home/patrice/assignment-7-patricereneeemery/misc-modules/silly.mod.o
